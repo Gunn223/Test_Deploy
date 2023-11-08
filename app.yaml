@@ -1,7 +1,7 @@
 runtime: python39
 service: website-static # Ganti dengan nama layanan yang Anda inginkan
 env_variables:
-  BUCKET_NAME: my-bucket-2 
+  BUCKET_NAME: bucket21312
 handlers:
   - url: /
     static_files: www/index.html
