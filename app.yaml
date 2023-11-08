@@ -1,4 +1,5 @@
 runtime: python39
+service: website-static # Ganti dengan nama layanan yang Anda inginkan
 
 handlers:
   - url: /
