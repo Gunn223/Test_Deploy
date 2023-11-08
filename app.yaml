@@ -7,4 +7,3 @@ handlers:
 
   - url: /images
     static_dir: www/images
-    bucket: web-dasar21
